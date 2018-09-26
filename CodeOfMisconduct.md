@@ -1,0 +1,21 @@
+## Code of Misconduct 1.0
+
+### Definitions
+
+Development process : Project management platform actions (Issues, pull requests, commits) and official discussions for development (IRC, Mailing list, etc.).
+
+### Standards
+
+If a user involved in {THE SOFTWARE} is disrespectful during any part of the development process, we may remove their right to participate in the development of {THE SOFTWARE} within the project.
+
+### Scope
+
+We believe only the communication during development processes matters. Any broader scope would mean a violation of their personal space and freedom of opinion.
+
+### Justification
+
+Code has the same function regardless of the people who are making it. Judgment of someone's ethics will always result in the project being politically-involved and we want to avoid this.
+
+---
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
