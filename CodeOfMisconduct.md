@@ -1,4 +1,4 @@
-## Code of Misconduct 1.0
+## Code of Misconduct 1.1
 
 ### Definitions
 
@@ -6,7 +6,7 @@ Development process : Project management platform actions (Issues, pull requests
 
 ### Standards
 
-If a user involved in {THE SOFTWARE} is disrespectful during any part of the development process, we may remove their right to participate in the development of {THE SOFTWARE} within the project.
+If a user involved in {THE SOFTWARE} becomes a nuisance to the project during any part of the development process, we may remove their right to participate in the development of {THE SOFTWARE} within the project.
 
 ### Scope
 
